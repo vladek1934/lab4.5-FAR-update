@@ -114,7 +114,7 @@ namespace FarWithRecursion
                     {
                         Console.Clear();
                         string[] lines = System.IO.File.ReadAllLines(@current2);
-                        System.Console.WriteLine("Contents of WriteLines2.txt = ");
+                        System.Console.WriteLine("Contents of the file = ");
                         foreach (string line in lines)
                         {
                           
